@@ -1,0 +1,6 @@
+admin
+db_owner
+db_datawriter
+sysadmin
+db_securityadmin
+securityadmin

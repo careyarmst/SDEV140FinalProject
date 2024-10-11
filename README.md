@@ -1,4 +1,5 @@
 # SDEV140FinalProject
+FINAL SUBMISSION: The final submission files are in the Armstrong_Carey FINAL PROJECT.zip file.
 NOTE: The termstolook.txt is the file with the keywords to find in the output and the SQL_USERS_DB_SANITZ.txt file is the SQL Script output file to be searched/parsed. 
 Final Project for SDEV140 CEA
 	What is the purpose of the Application? The application will take as input (read in) a standard output of SQL Server security/user data and pull out the relevant data for review in a nice little formatted GUI window and hopefully generate a PDF. So far it generates the data I am looking for and saves it to a text file. But it is getting what I need from the output. I need to add the output window and see if I can get the text output to a PDF. 
